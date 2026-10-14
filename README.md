@@ -1,8 +1,8 @@
 # Lab4Web - Praktikum 4: CSS Layout
 
-Nama : Raihan Arrasyid Monadika  
-NIM : 312510206  
-Kelas : I251B  
+Nama : Fadli Mabrur Nahari  
+NIM : 312510294  
+Kelas : I251A  
 Mata Kuliah : Pemrograman Web  
 
 ---
