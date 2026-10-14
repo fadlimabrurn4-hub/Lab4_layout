@@ -93,15 +93,15 @@ Menambahkan dua `<article class="entry">` yang dipisahkan garis pembatas (`<hr c
 
 ### Menambahkan Layout Untuk Menu About
 
-<img src="screenshot/kode11.png">  
-<img src="screenshot/kode11lanjutan.png">  
-<img src="screenshot/kode11lanjutan1.png">  
-<img src="screenshot/hasil11.png">  
-<img src="screenshot/hasil11lanjutan.png">  
+<img src="folder foto/AB kode 1.png">  
+<img src="folder foto/AB kode 2.png">  
+<img src="folder foto/AB kode 3.png">  
+<img src="folder foto/AB hasil 1.png">  
+<img src="folder foto/AB hasil 2.png">  
 
 ### Menambahkan Layout Untuk Menu Contact
 
-<img src="screenshot/kode12.png">  
-<img src="screenshot/kode12lanjutan.png">  
-<img src="screenshot/kode12lanjutan1.png">  
-<img src="screenshot/hasil12.png">  
+<img src="folder foto/KK 1.png">  
+<img src="folder foto/KK 2.png">  
+<img src="folder foto/KK kode 3.png">  
+<img src="folder foto/KK hasil 1.png">  
